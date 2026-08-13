@@ -172,7 +172,7 @@ Example
 
 ```json
 "ConnectionStrings": {
-  "DefaultConnection": "Host=localhost;Port=5432;Database={Restored_Database};Username=postgres;Password=your_password"
+  "DefaultConnection": "Host=localhost;Port=5432;Database=Restored_Database_Name;Username=postgres;Password=your_password"
 }
 ```
 
