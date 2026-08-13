@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|solutionrelative:assignmentsystem\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem\\entities\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|solutionrelative:assignmentsystem\\entities\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|solutionrelative:assignmentsystem\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem\\controllers\\teacherclasssubjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|solutionrelative:assignmentsystem\\controllers\\teacherclasssubjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|solutionrelative:assignmentsystem\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem\\controllers\\academicclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|solutionrelative:assignmentsystem\\controllers\\academicclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|solutionrelative:assignmentsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|solutionrelative:assignmentsystem\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|solutionrelative:assignmentsystem\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|solutionrelative:assignmentsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem\\repositories\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|solutionrelative:assignmentsystem\\repositories\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|solutionrelative:assignmentsystem\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|solutionrelative:assignmentsystem\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "AssignmentSystem\\Controllers\\SubjectController.cs",
+              "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "AssignmentSystem\\Controllers\\SubjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T19:18:55.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Submission.cs",
+              "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Entities\\Submission.cs",
+              "RelativeDocumentMoniker": "AssignmentSystem\\Entities\\Submission.cs",
+              "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Entities\\Submission.cs",
+              "RelativeToolTip": "AssignmentSystem\\Entities\\Submission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T18:28:01.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Controllers\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "AssignmentSystem\\Controllers\\AssignmentController.cs",
+              "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Controllers\\AssignmentController.cs",
+              "RelativeToolTip": "AssignmentSystem\\Controllers\\AssignmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T18:24:51.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherClassSubjectController.cs",
+              "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Controllers\\TeacherClassSubjectController.cs",
+              "RelativeDocumentMoniker": "AssignmentSystem\\Controllers\\TeacherClassSubjectController.cs",
+              "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Controllers\\TeacherClassSubjectController.cs",
+              "RelativeToolTip": "AssignmentSystem\\Controllers\\TeacherClassSubjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T18:22:13.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AcademicClassController.cs",
+              "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Controllers\\AcademicClassController.cs",
+              "RelativeDocumentMoniker": "AssignmentSystem\\Controllers\\AcademicClassController.cs",
+              "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Controllers\\AcademicClassController.cs",
+              "RelativeToolTip": "AssignmentSystem\\Controllers\\AcademicClassController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T12:19:50.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "AssignmentSystem\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "AssignmentSystem\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwCEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T12:41:44.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "AssignmentSystem\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "AssignmentSystem\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T12:04:02.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "AssignmentSystem\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "AssignmentSystem\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T12:03:48.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AssignmentSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AssignmentSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA0wCMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T12:02:48.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Repositories\\Implementations\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "AssignmentSystem\\Repositories\\Implementations\\UnitOfWork.cs",
+              "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Repositories\\Implementations\\UnitOfWork.cs",
+              "RelativeToolTip": "AssignmentSystem\\Repositories\\Implementations\\UnitOfWork.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T11:55:51.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AssignmentSystem\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AssignmentSystem\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T11:48:06.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "AssignmentSystem\\Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "AssignmentSystem\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T11:44:49.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\DTOs\\User\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "AssignmentSystem\\DTOs\\User\\CreateUserDto.cs",
+              "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\DTOs\\User\\CreateUserDto.cs",
+              "RelativeToolTip": "AssignmentSystem\\DTOs\\User\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T11:44:15.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
