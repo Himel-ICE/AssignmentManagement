@@ -139,7 +139,6 @@ Database backup is available inside the **Database** folder.
 
 Restore the backup before running the application.
 
-Alternatively, you may use Entity Framework migrations.
 
 ---
 
@@ -173,8 +172,24 @@ Example
 
 ```json
 "ConnectionStrings": {
-  "DefaultConnection": "Host=localhost;Port=5432;Database=AssignmentSystem;Username=postgres;Password=your_password"
+  "DefaultConnection": "Host=localhost;Port=5432;Database={Restored_Database};Username=postgres;Password=your_password"
 }
+```
+
+---
+
+## Update .evn file from AssignmentManagementApp
+
+Edit
+
+```
+.env
+```
+
+Example
+
+```
+VITE_API_URL={Swagger_URL}
 ```
 
 ---
