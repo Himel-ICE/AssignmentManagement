@@ -183,13 +183,6 @@ Example
 
 Using PostgreSQL Backup
 
-or
-
-Run Migration
-
-```bash
-dotnet ef database update
-```
 
 ---
 
@@ -212,7 +205,7 @@ dotnet run
 Swagger
 
 ```
-https://localhost:xxxx/swagger
+(https://localhost:7161/swagger/index.html)
 ```
 
 ---
@@ -223,10 +216,10 @@ https://localhost:xxxx/swagger
 
 ```
 Email:
-admin@example.com
+superadmin@gmail.com
 
 Password:
-********
+123456
 ```
 
 ---
@@ -235,10 +228,10 @@ Password:
 
 ```
 Email:
-teacher@example.com
+tisha@gmail.com
 
 Password:
-********
+123456
 ```
 
 ---
@@ -247,29 +240,12 @@ Password:
 
 ```
 Email:
-student@example.com
+jitu@gmail.com
 
 Password:
-********
+123456
 ```
 
-> Replace these credentials with the actual seeded accounts before submission.
-
----
-
-# API Response Format
-
-```json
-{
-  "success": true,
-  "statusCode": 200,
-  "message": "Operation completed successfully.",
-  "data": {},
-  "errors": null
-}
-```
-
----
 
 # Security
 
@@ -303,16 +279,7 @@ dotnet test
 
 ---
 
-# Future Improvements
 
-- Email Notification
-- File Upload
-- Dashboard Analytics
-- Assignment Reminder
-- Docker Support
-- CI/CD Pipeline
-
----
 
 # Author
 
@@ -326,7 +293,7 @@ GitHub:
 https://github.com/Himel-ICE
 
 LinkedIn:
-(Add your LinkedIn profile URL)
+https://www.linkedin.com/feed/
 
 ---
 
