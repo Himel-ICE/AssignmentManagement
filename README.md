@@ -105,39 +105,6 @@ This project enables educational institutions to manage users, academic classes,
 
 ---
 
-# Project Structure
-
-```
-AssignmentManagement
-│
-├── AssignmentSystem
-│   ├── Controllers
-│   ├── Services
-│   │      ├── Interfaces
-│   │      └── Implementations
-│   ├── Repositories
-│   │      ├── Interfaces
-│   │      └── Implementations
-│   ├── DTOs
-│   ├── Entities
-│   ├── Data
-│   ├── Middleware
-│   ├── Mappings
-│   ├── Extensions
-│   ├── Helpers
-│   ├── Enums
-│   ├── Configuration
-│   └── Program.cs
-│
-├── AssignmentSystem.Tests.Unit
-│
-├── AssignmentSystem.Tests.Integration
-│
-└── Database
-    └── AssignmentSystem.backup
-```
-
----
 
 # System Workflow
 
