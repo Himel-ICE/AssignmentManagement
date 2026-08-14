@@ -209,22 +209,6 @@ dotnet restore
 
 ---
 
-## Run Application
-
-```bash
-dotnet run
-```
-
----
-
-Swagger
-
-```
-(https://localhost:7161/swagger/index.html)
-```
-
----
-
 # Demo Credentials
 
 ## Admin
