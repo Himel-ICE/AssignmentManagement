@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA037A10-8FF2-2BFC-C91B-8F2D6DCEF613}|AssignmentSystem.Tests\\AssignmentSystem.Tests.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem.tests\\services\\subjectservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA037A10-8FF2-2BFC-C91B-8F2D6DCEF613}|AssignmentSystem.Tests\\AssignmentSystem.Tests.csproj|solutionrelative:assignmentsystem.tests\\services\\subjectservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA037A10-8FF2-2BFC-C91B-8F2D6DCEF613}|AssignmentSystem.Tests\\AssignmentSystem.Tests.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA037A10-8FF2-2BFC-C91B-8F2D6DCEF613}|AssignmentSystem.Tests\\AssignmentSystem.Tests.csproj|solutionrelative:assignmentsystem.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA037A10-8FF2-2BFC-C91B-8F2D6DCEF613}|AssignmentSystem.Tests\\AssignmentSystem.Tests.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem.tests\\helpers\\testdatafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA037A10-8FF2-2BFC-C91B-8F2D6DCEF613}|AssignmentSystem.Tests\\AssignmentSystem.Tests.csproj|solutionrelative:assignmentsystem.tests\\helpers\\testdatafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|d:\\zamiul islam himel\\projects\\dotnet\\assignmentmanagement\\assignmentsystem\\assignmentsystem\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13738F98-6EBB-F0FC-AD7C-368EE3A0247A}|AssignmentSystem\\AssignmentSystem.csproj|solutionrelative:assignmentsystem\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,19 +79,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SubjectServiceTests.cs",
+              "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem.Tests\\Services\\SubjectServiceTests.cs",
+              "RelativeDocumentMoniker": "AssignmentSystem.Tests\\Services\\SubjectServiceTests.cs",
+              "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem.Tests\\Services\\SubjectServiceTests.cs",
+              "RelativeToolTip": "AssignmentSystem.Tests\\Services\\SubjectServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T04:45:05.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem.Tests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "AssignmentSystem.Tests\\GlobalUsings.cs",
+              "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem.Tests\\GlobalUsings.cs",
+              "RelativeToolTip": "AssignmentSystem.Tests\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T04:44:57.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestDataFactory.cs",
+              "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem.Tests\\Helpers\\TestDataFactory.cs",
+              "RelativeDocumentMoniker": "AssignmentSystem.Tests\\Helpers\\TestDataFactory.cs",
+              "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem.Tests\\Helpers\\TestDataFactory.cs",
+              "RelativeToolTip": "AssignmentSystem.Tests\\Helpers\\TestDataFactory.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T04:44:50.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SubjectController.cs",
               "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Controllers\\SubjectController.cs",
               "RelativeDocumentMoniker": "AssignmentSystem\\Controllers\\SubjectController.cs",
               "ToolTip": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Controllers\\SubjectController.cs",
               "RelativeToolTip": "AssignmentSystem\\Controllers\\SubjectController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-11T19:18:55.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Submission.cs",
               "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Entities\\Submission.cs",
               "RelativeDocumentMoniker": "AssignmentSystem\\Entities\\Submission.cs",
@@ -91,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AssignmentController.cs",
               "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Controllers\\AssignmentController.cs",
               "RelativeDocumentMoniker": "AssignmentSystem\\Controllers\\AssignmentController.cs",
@@ -103,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "TeacherClassSubjectController.cs",
               "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Controllers\\TeacherClassSubjectController.cs",
               "RelativeDocumentMoniker": "AssignmentSystem\\Controllers\\TeacherClassSubjectController.cs",
@@ -115,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AcademicClassController.cs",
               "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Controllers\\AcademicClassController.cs",
               "RelativeDocumentMoniker": "AssignmentSystem\\Controllers\\AcademicClassController.cs",
@@ -127,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Services\\Implementations\\UserService.cs",
               "RelativeDocumentMoniker": "AssignmentSystem\\Services\\Implementations\\UserService.cs",
@@ -139,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "GlobalExceptionMiddleware.cs",
               "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Middleware\\GlobalExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "AssignmentSystem\\Middleware\\GlobalExceptionMiddleware.cs",
@@ -151,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ApplicationBuilderExtensions.cs",
               "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Extensions\\ApplicationBuilderExtensions.cs",
               "RelativeDocumentMoniker": "AssignmentSystem\\Extensions\\ApplicationBuilderExtensions.cs",
@@ -163,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "AssignmentSystem\\Data\\ApplicationDbContext.cs",
@@ -175,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Repositories\\Implementations\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "AssignmentSystem\\Repositories\\Implementations\\UnitOfWork.cs",
@@ -187,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "AssignmentSystem\\Controllers\\UserController.cs",
@@ -199,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "AssignmentSystem\\Mappings\\MappingProfile.cs",
@@ -211,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "CreateUserDto.cs",
               "DocumentMoniker": "D:\\Zamiul Islam Himel\\Projects\\DOTNET\\AssignmentManagement\\AssignmentSystem\\AssignmentSystem\\DTOs\\User\\CreateUserDto.cs",
               "RelativeDocumentMoniker": "AssignmentSystem\\DTOs\\User\\CreateUserDto.cs",

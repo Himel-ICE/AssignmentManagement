@@ -358,4 +358,5 @@ C:\Users\ADMINI~1\AppData\Local\Temp\asbuild11\Debug\net8.0\AssignmentSystem.sta
 C:\Users\ADMINI~1\AppData\Local\Temp\asbuild11\Debug\net8.0\AssignmentSystem.exe
 C:\Users\ADMINI~1\AppData\Local\Temp\asbuild11\Debug\net8.0\AssignmentSystem.dll
 C:\Users\ADMINI~1\AppData\Local\Temp\asbuild11\Debug\net8.0\AssignmentSystem.pdb
+D:\Zamiul Islam Himel\Projects\DOTNET\AssignmentManagement\AssignmentSystem\AssignmentSystem\obj\Debug\net8.0\AssignmentSystem.sourcelink.json
 D:\Zamiul Islam Himel\Projects\DOTNET\AssignmentManagement\AssignmentSystem\AssignmentSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
